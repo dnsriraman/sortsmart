@@ -1,0 +1,6 @@
+{
+  "name": "SortSmart — AI Waste Segregation Assistant",
+  "description": "AI-powered waste segregation and sustainable disposal assistant for homes, campuses, and communities.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
